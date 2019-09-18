@@ -10,8 +10,8 @@ Welcome to Technical Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   docker-basic-concept
-
+   docker
+   selenium-basic 
 
 Indices and tables
 ==================
