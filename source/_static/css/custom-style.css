@@ -1,0 +1,12 @@
+div.center h1{
+    text-align: center;
+}
+
+body.wy-body-for-nav{
+    margin: auto;
+    max-width: 1200px;
+}
+
+nav.wy-nav-side {
+    left: auto !important;
+}
