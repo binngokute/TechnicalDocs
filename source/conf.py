@@ -53,7 +53,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 # Add custom stylesheet to document
-html_css_files = ['custom-style.css']
+html_css_files = ['css/custom-style.css']
 
 # Set master doc to index.rst since by default, master doc will be contents.rst.
 # if we dont have that file, the build will fail
