@@ -10,12 +10,5 @@ Welcome to Technical Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   docker-basic-concept
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   docker
+   selenium-basic
