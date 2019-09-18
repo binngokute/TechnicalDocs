@@ -10,15 +10,3 @@ body.wy-body-for-nav{
 nav.wy-nav-side {
     left: auto !important;
 }
-
-ul li {
-    line-height: 30px;
-}
-
-.label-center {
-    text-align: center;
-}
-
-.rst-content img {
-    margin-bottom: 10px;
-}

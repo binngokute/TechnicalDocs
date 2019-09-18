@@ -1,0 +1,83 @@
+.. rst-class:: center
+
+================================
+CÁC KHÁI NIỆM CƠ BẢN VỀ DOCKER
+================================
+
+
+1. Docker là gì
+***********************
+Docker is a containerization platform that packages your application and all its dependencies 
+together in the form of a docker container to ensure that your application works seamlessly in 
+any environment.
+
+2. Container là gì
+***********************
+A container is a standard unit of software that packages up code and all its dependencies
+so the application runs quickly and reliably from one computing environment to anothe
+
+Download image từ hub
+----------------------
+::
+
+    Download `Title <http://link>`_ 
+
+- Tạo image từ local
+
+::
+
+    :command:`cmd`
+
+
+3. Container là gì
+*************************
+
+
+
+* First item
+* Second item
+
+  * Sub item
+
+* Third item
+
+Tables are really easy to write:
+
+=========== ========
+Country     Capital
+=========== ========
+France      Paris
+Japan       Tokyo
+=========== ========
+
+
+`báo dân trí <dantri.com>`_'
+
+``*``
+
+* This is a bulleted list.
+* It has two items, the second
+  item uses two lines. (note the indentation)
+
+1. This is a numbered list.
+#. It has two items too.
+#. This is a numbered list.
+#. It has two items too.
+
+.. code-block:: python
+
+  import this
+
+
+.. note::
+    Fuck
+
+
+
+.. math::
+   (a + b)^2 = a^2 + 2ab + b^2
+
+   (a - b)^2 = a^2 - 2ab + b^2
+
+.. warning::
+    Dont try it at home
