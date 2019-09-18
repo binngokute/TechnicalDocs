@@ -11,11 +11,4 @@ Welcome to Technical Docs's documentation!
    :caption: Contents:
    
    docker
-   selenium-basic 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   selenium-basic
